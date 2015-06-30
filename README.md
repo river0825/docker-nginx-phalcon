@@ -11,3 +11,6 @@ docker run  -p 80:80 -p 443:443 \
 -v /Users/river/PchomePay/cczone/log:/var/log/apache -d \
 21e523e4a1f8
 `
+
+
+
